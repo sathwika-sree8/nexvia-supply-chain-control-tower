@@ -8,7 +8,6 @@ NEXVIA is a supply chain analytics and decision-support project combining histor
 
 > **Data transparency:** Historical records come from the DataCo Smart Supply Chain dataset. Warehouse inventory, supplier events, and operational activity in November 2026 are **simulated**, not live enterprise feeds. Forecasts, transfers, and procurement quantities are analytical recommendations, not executed business transactions.
 
-**Repository:** [github.com/anandpdt/supply-chain-control-tower](https://github.com/anandpdt/supply-chain-control-tower)
 
 ---
 
@@ -459,8 +458,7 @@ The following results came from the developer's evaluated local environment, not
 
 NEXVIA is an academic and portfolio demonstration of SQL modeling, Python data analytics, workflow orchestration, demand forecasting, inventory risk analysis, and interactive business intelligence.
 
-**Anand Kumar Pandit**
+**Pillalamarri Sathwika Sree**
 
-Indian Institute of Technology Patna
+National Institute of Technology Delhi
 
-*For educational and analytical use. Validate all simulated recommendations against real inventory, lead times, costs, and service constraints before operational decisions.*
